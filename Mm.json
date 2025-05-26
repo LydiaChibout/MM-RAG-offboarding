@@ -1,0 +1,63 @@
+{
+  "TitreMindmap": "Connaissances Expert Off-boarding",
+  "ExpertiseDimensions": {
+    "ProjectManagementResponsibilities": {
+      "Description": "Projets gérés par l'expert",
+      "Projects": [
+        {
+          "name": "Projet Alpha",
+          "startDate": "2020-01-15",
+          "endDate": "2022-06-30",
+          "role": "Chef de Projet",
+          "deliverables": ["Rapport final", "Code source v1.0"],
+          "context": "Projet R&D sensible"
+        },
+        {
+          "name": "Projet Beta",
+          "startDate": "2021-03-01",
+          "endDate": "2023-12-31",
+          "role": "Expert technique",
+          "partners": ["Partner A", "Partner B"]
+        }
+      ]
+    },
+    "NationalNormsRecommendations": {
+      "Description": "Normes et recommandations appliquées",
+      "Norms": ["ISO 9001", "Norme nationale X (réf. Y)"],
+      "Recommendations": ["Recommandation Z (v2023)"]
+    },
+    "CollaborativePartners": {
+      "Description": "Partenaires avec lesquels l'expert a collaboré",
+      "Partners": [
+        {
+          "name": "Entreprise X",
+          "contact": "John Doe",
+          "type": "Technologique",
+          "relationStart": "2019-05-01"
+        },
+        {
+          "name": "Université Y",
+          "contact": "Dr. Jane Smith",
+          "type": "Recherche",
+          "projects": ["Projet Alpha"]
+        }
+      ]
+    },
+    "DocumentResources": {
+      "Description": "Ressources documentaires clés",
+      "Documents": [
+        {"title": "Manuel Procédure XYZ", "location": "SharePoint/docs/XYZ", "lastUpdate": "2024-01-10"},
+        {"title": "Base de données technique", "location": "Serveur interne", "accessMethod": "VPN + login"}
+      ]
+    },
+    "DomainsThematics": {
+      "Description": "Domaines et thématiques d'expertise",
+      "Themes": ["Cybersécurité", "Traitement du langage naturel", "Cloud Computing"]
+    }
+  },
+  "Metadata": {
+    "ExpertName": "Nom de l'Expert",
+    "OffboardingDate": "2025-06-30",
+    "ElicitationDate": "2025-06-15"
+  }
+}
